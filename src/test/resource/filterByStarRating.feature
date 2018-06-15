@@ -3,6 +3,7 @@ Feature: FilterByStarRating
   I want to filter the product by star ratings
   So that I can view filtered product
 
+  @kumarsoni
   Scenario Outline: Filter By Price
     Given when I am on the home page of Boots
     When I search for a product

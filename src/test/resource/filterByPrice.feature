@@ -3,6 +3,7 @@ Feature: FilterByPrice
   I want to filter the product by price
   So that I can view filtered product
 
+  @kumarsoni
   Scenario Outline: Filter By Price
     Given when I am on the home page Boots
     When I search for a specific product

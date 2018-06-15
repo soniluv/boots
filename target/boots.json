@@ -6,7 +6,7 @@
         "before": [
           {
             "result": {
-              "duration": 12982960149,
+              "duration": 15053560508,
               "status": "passed"
             },
             "match": {
@@ -14,7 +14,7 @@
             }
           }
         ],
-        "line": 15,
+        "line": 16,
         "name": "Filter By Price",
         "description": "",
         "id": "filterbyprice;filter-by-price;;2",
@@ -23,10 +23,10 @@
         "steps": [
           {
             "result": {
-              "duration": 195387159,
+              "duration": 324062393,
               "status": "passed"
             },
-            "line": 7,
+            "line": 8,
             "name": "when I am on the home page Boots",
             "match": {
               "location": "StepDefnsPrice.when_I_am_on_the_home_page_of_Boots()"
@@ -35,10 +35,10 @@
           },
           {
             "result": {
-              "duration": 9139848234,
+              "duration": 7988715955,
               "status": "passed"
             },
-            "line": 8,
+            "line": 9,
             "name": "I search for a specific product",
             "match": {
               "location": "StepDefnsPrice.i_search_for_a_product()"
@@ -47,10 +47,10 @@
           },
           {
             "result": {
-              "duration": 10477292030,
+              "duration": 6140672510,
               "status": "passed"
             },
-            "line": 9,
+            "line": 10,
             "name": "I select a filter called by \"less than £2\"",
             "match": {
               "arguments": [
@@ -68,15 +68,21 @@
           },
           {
             "result": {
-              "duration": 25231,
+              "duration": 26942,
               "status": "passed"
             },
-            "line": 10,
+            "line": 11,
             "name": "I should see results filtered by price",
             "match": {
               "location": "StepDefnsPrice.i_should_see_results_filtered_by_price()"
             },
             "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 6,
+            "name": "@kumarsoni"
           }
         ]
       }
@@ -94,7 +100,7 @@
         "before": [
           {
             "result": {
-              "duration": 10929171182,
+              "duration": 6514739478,
               "status": "passed"
             },
             "match": {
@@ -102,7 +108,7 @@
             }
           }
         ],
-        "line": 15,
+        "line": 16,
         "name": "Filter By Price",
         "description": "",
         "id": "filterbystarrating;filter-by-price;;2",
@@ -111,10 +117,10 @@
         "steps": [
           {
             "result": {
-              "duration": 74411,
+              "duration": 75267,
               "status": "passed"
             },
-            "line": 7,
+            "line": 8,
             "name": "when I am on the home page of Boots",
             "match": {
               "location": "StepDefsRating.when_I_am_on_the_home_page_of_Boots()"
@@ -123,10 +129,10 @@
           },
           {
             "result": {
-              "duration": 9075923454,
+              "duration": 8117933787,
               "status": "passed"
             },
-            "line": 8,
+            "line": 9,
             "name": "I search for a product",
             "match": {
               "location": "StepDefsRating.i_search_for_a_product()"
@@ -135,10 +141,10 @@
           },
           {
             "result": {
-              "duration": 4374077872,
+              "duration": 2892610417,
               "status": "passed"
             },
-            "line": 9,
+            "line": 10,
             "name": "I select a filter by \"5 stars\"",
             "match": {
               "arguments": [
@@ -156,15 +162,21 @@
           },
           {
             "result": {
-              "duration": 64148,
+              "duration": 30791,
               "status": "passed"
             },
-            "line": 10,
+            "line": 11,
             "name": "I should see results filtered star ratings",
             "match": {
               "location": "StepDefsRating.i_should_see_results_filtered_star_ratings()"
             },
             "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 6,
+            "name": "@kumarsoni"
           }
         ]
       }
