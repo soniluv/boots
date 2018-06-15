@@ -25,7 +25,7 @@ public void openBrowser(){
     switch (browser){
         case "Chrome":
         {
-            System.setProperty("webdriver.chrome.driver", "C:\\work\\chromedriver.exe");
+            ChromeDriverManager.getInstance().setup();
             driver= new ChromeDriver();
             break;
         }

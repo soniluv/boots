@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4308b1fe-0ddb-47b5-886b-464722428110" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/boots/bdd/Hooks.java" afterPath="$PROJECT_DIR$/src/test/java/com/boots/bdd/Hooks.java" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/boots/bdd/drivers/DriversFactory.java" afterPath="$PROJECT_DIR$/src/test/java/com/boots/bdd/drivers/DriversFactory.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -25,11 +26,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DriversFactory.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DriversFactory.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/boots/bdd/drivers/DriversFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-225">
-              <caret line="30" column="9" lean-forward="false" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+            <state relative-caret-position="-157">
+              <caret line="27" column="54" lean-forward="true" selection-start-line="27" selection-start-column="54" selection-end-line="27" selection-end-column="54" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -82,8 +83,8 @@
       <file leaf-file-name="Hooks.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/boots/bdd/Hooks.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="50" lean-forward="false" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
+            <state relative-caret-position="265">
+              <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -94,8 +95,8 @@
       <file leaf-file-name="HeaderPage.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/boots/bdd/page_objects/HeaderPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <state relative-caret-position="238">
+              <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -125,7 +126,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RunnerCucumberTest.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="RunnerCucumberTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/boots/bdd/RunnerCucumberTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
@@ -198,9 +199,9 @@
         <option value="$PROJECT_DIR$/src/test/resource/filterByPrice.feature" />
         <option value="$PROJECT_DIR$/src/test/java/com/boots/bdd/stepDefs/StepDefnsPrice.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/boots/bdd/RunnerCucumberTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/boots/bdd/page_objects/HeaderPage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/boots/bdd/Hooks.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/boots/bdd/Hooks.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/boots/bdd/page_objects/HeaderPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/boots/bdd/drivers/DriversFactory.java" />
       </list>
     </option>
@@ -470,15 +471,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="RunnerCucumberTest - 2018.06.12 at 10h 43m 19s.xml">
-      <configuration name="RunnerCucumberTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RunnerCucumberTest - 2018.06.12 at 10h 47m 52s.xml">
-      <configuration name="RunnerCucumberTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RunnerCucumberTest - 2018.06.12 at 10h 50m 21s.xml">
-      <configuration name="RunnerCucumberTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="RunnerCucumberTest - 2018.06.12 at 10h 54m 55s.xml">
       <configuration name="RunnerCucumberTest" configurationId="JUnit" />
     </history-entry>
@@ -498,6 +490,15 @@
       <configuration name="RunnerCucumberTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="RunnerCucumberTest - 2018.06.15 at 10h 30m 18s.xml">
+      <configuration name="RunnerCucumberTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RunnerCucumberTest - 2018.06.15 at 16h 26m 47s.xml">
+      <configuration name="RunnerCucumberTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RunnerCucumberTest - 2018.06.15 at 16h 28m 16s.xml">
+      <configuration name="RunnerCucumberTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RunnerCucumberTest - 2018.06.15 at 16h 31m 35s.xml">
       <configuration name="RunnerCucumberTest" configurationId="JUnit" />
     </history-entry>
   </component>
@@ -538,19 +539,6 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/com/boots/bdd/page_objects/HeaderPage.java</url>
-          <line>11</line>
-          <properties />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/com/boots/bdd/drivers/DriversFactory.java</url>
-          <line>28</line>
-          <properties />
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
       <option name="time" value="2" />
     </breakpoint-manager>
     <watches-manager />
@@ -1066,20 +1054,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/boots/bdd/RunnerCucumberTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/boots/bdd/Hooks.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="50" lean-forward="false" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
+        <state relative-caret-position="265">
+          <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1088,8 +1066,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/boots/bdd/page_objects/HeaderPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        <state relative-caret-position="238">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1098,8 +1076,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/boots/bdd/drivers/DriversFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-225">
-          <caret line="30" column="9" lean-forward="false" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+        <state relative-caret-position="-157">
+          <caret line="27" column="54" lean-forward="true" selection-start-line="27" selection-start-column="54" selection-end-line="27" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/boots/bdd/RunnerCucumberTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
