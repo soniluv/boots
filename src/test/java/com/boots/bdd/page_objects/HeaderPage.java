@@ -11,7 +11,7 @@ public class HeaderPage extends DriversFactory {
     public void doSearch(){
         driver.findElement(By.cssSelector("#SimpleSearchForm_SearchTerm")).sendKeys("perfume");
         driver.findElement(By.cssSelector(".submitButton")).click();
-        sleepBroswer(5000);
+       // sleepBroswer(5000);
     }
 
 
